@@ -12,8 +12,8 @@
   text-align: center;
   position: relative;
   /*https://cdn.jsdelivr.net/gh/hz070/-jsDelivr@tree/braches_zh/img*/
-  /*background: url(../img/bg1.jpg);*/
-  background: url(https://cdn.jsdelivr.net/gh/hz070/-jsDelivr@tree/braches_zh/img/bg1.jpg);
+  background: url(../img/bg1.jpg);
+  /*background: url(https://cdn.jsdelivr.net/gh/hz070/-jsDelivr@tree/braches_zh/img/bg1.jpg);*/
   /* background-size: cover; */
   background-size: contain;
   background-repeat: no-repeat;
@@ -64,8 +64,8 @@
 
 .zsk {
   display: flex;
-  /* background: url(../img/bg12.jpg); */
-  background: url(https://cdn.jsdelivr.net/gh/hz070/-jsDelivr@tree/braches_zh/img/bg12.jpg);
+  background: url(../img/bg12.jpg); 
+  /*background: url(https://cdn.jsdelivr.net/gh/hz070/-jsDelivr@tree/braches_zh/img/bg12.jpg);*/
   /* background-size: cover; */
   background-size: contain;
   background-repeat: no-repeat;
@@ -145,8 +145,8 @@
   .right {
     flex: 1;
     /*https://cdn.jsdelivr.net/gh/hz070/-jsDelivr@tree/braches_zh/img*/
-    /* background: url(../img/bg2.jpg.png) no-repeat center; */
-    background: url(https://cdn.jsdelivr.net/gh/hz070/-jsDelivr@tree/braches_zh/img/bg2.jpg.png) no-repeat center;
+    background: url(../img/bg2.jpg.png) no-repeat center; 
+    /*background: url(https://cdn.jsdelivr.net/gh/hz070/-jsDelivr@tree/braches_zh/img/bg2.jpg.png) no-repeat center;*/
     /* background-size: 100% 100%; */
     background-size: contain;
     background-repeat: no-repeat;
@@ -231,8 +231,8 @@
   height: 100%;
   top: 0;
   /*https://cdn.jsdelivr.net/gh/hz070/-jsDelivr@tree/braches_zh/img*/
-  /* background: url(../img/cd.jpg) no-repeat center; */
-  background: url(https://cdn.jsdelivr.net/gh/hz070/-jsDelivr@tree/braches_zh/img/cd.jpg) no-repeat center;
+  background: url(../img/cd.jpg) no-repeat center; 
+  /*background: url(https://cdn.jsdelivr.net/gh/hz070/-jsDelivr@tree/braches_zh/img/cd.jpg) no-repeat center;*/
   /* background-size: cover; */
   background-size: contain;
   background-repeat: no-repeat;
